@@ -58,8 +58,4 @@ O prototipo foi criado no Miro e contem 5 telas principais:
 README.md
 ```
 
----
 
-## Acesso ao Prototipo no Miro
-
-https://miro.com/app/board/uXjVHTXBd8Y=/
