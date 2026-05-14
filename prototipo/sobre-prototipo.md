@@ -1,19 +1,19 @@
-# Prototipo — ConectaBus
+# Pasta do Prototipo — ConectaBus
 
-Esta pasta contem os arquivos exportados do prototipo de baixa fidelidade.
+Esta pasta deve conter os arquivos exportados do prototipo de baixa fidelidade criado no Miro.
 
-## Arquivos esperados
+## Arquivos desta pasta
 
-- prototipo.png — imagem exportada do board no Miro
-- prototipo.pdf — versao PDF do prototipo
+- **prototipo.png** — imagem exportada do board no Miro
+- **prototipo.pdf** — versao em PDF do prototipo
 
 ## Como exportar do Miro
 
-1. Abra o board no Miro pelo link abaixo
-2. Clique no menu de exportar (icone de seta para cima)
-3. Escolha PNG ou PDF
-4. Faca o upload dos arquivos nesta pasta
+1. Acesse o board pelo link abaixo
+2. Clique no icone de exportar no menu superior
+3. Escolha o formato PNG ou PDF
+4. Salve o arquivo e faca o envio para esta pasta no repositorio
 
-## Link do Board no Miro
+## Acesso ao Board no Miro
 
 https://miro.com/app/board/uXjVHTXBd8Y=/
